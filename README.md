@@ -1,6 +1,6 @@
 # My journey as I learn Java
 
-Hello! My name is Giyu and I'm here to share my progress on learning Java.<br>
+Hello! My name is Giyu, and I'm here to share my progress on learning Java.<br>
 This progress is based on the lesson I'm taking in [W3Schools JAVA course](https://www.w3schools.com/java/default.asp). Come see my examples here!
 
 ## My progress
@@ -25,11 +25,11 @@ This progress is based on the lesson I'm taking in [W3Schools JAVA course](https
 
 ### JAVA METHODS
 | Status | Lesson | Date accomplished: | Notes: |
-| ---: | --- | --- | --- |
+|-------:|--------|--------------------|--------|
 
 ### JAVA CLASSES (the Hardest)
 | Status | Lesson | Date accomplished: | Notes: |
-| ---: | --- | --- | --- |
+|-------:|--------|--------------------|--------|
 
 Thanks for reading this and taking a look on my work. Cheatsheet for markdown that I use is provided on this [link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables).<br>
 Using [CodeQL for Java-Kotlin to scan my code for vulnerability](https://codeql.github.com).<br>
