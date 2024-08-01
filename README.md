@@ -31,4 +31,5 @@ This progress is based on the lesson I'm taking in [W3Schools JAVA course](https
 | Status | Lesson | Date accomplished: | Notes: |
 | ---: | --- | --- | --- |
 
-Thanks for reading this and taking a look on my work. Cheatsheet for markdown that I use is provided on this [link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables).
+Thanks for reading this and taking a look on my work. Cheatsheet for markdown that I use is provided on this [link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables).<br>
+Using [CodeQL for Java-Kotlin to scan my code for vulnerability](https://codeql.github.com)
