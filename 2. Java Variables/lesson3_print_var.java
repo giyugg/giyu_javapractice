@@ -8,8 +8,8 @@ public class lesson3_print_var {
 
         /* Now, I will be combining `string` values by creating a class named firstName and lastName
         and combine then into class named fullName. */
-        String firstName = "Kyle ";
-        String lastName = "Acuna";
+        String firstName = "Jonathan ";
+        String lastName = "Lambert";
         String fullName = firstName + lastName;
         System.out.println(fullName);
 
@@ -18,7 +18,7 @@ public class lesson3_print_var {
         I will subtract the present year to the birth year- to get the current age based on year. */
         // Note that this value is not accurate enough because year is only given, not the exact birth-date. 
         int presentYear = 2024;
-        int birthYear = 2006;
+        int birthYear = 1970;
         System.out.println(presentYear - birthYear);
 
         // In this next lesson that I learned, I will be declaring many variables to sum up in `println`.
