@@ -32,5 +32,5 @@ This progress is based on the lesson I'm taking in [W3Schools JAVA course](https
 | ---: | --- | --- | --- |
 
 Thanks for reading this and taking a look on my work. Cheatsheet for markdown that I use is provided on this [link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables).<br>
-Using [CodeQL for Java-Kotlin to scan my code for vulnerability](https://codeql.github.com)<br>
-For coding, I use [Intellij IDEA Community Edition](https://www.jetbrains.com/idea/download/?section=windows)
+Using [CodeQL for Java-Kotlin to scan my code for vulnerability](https://codeql.github.com).<br>
+For coding IDE, I use [Intellij IDEA Community Edition](https://www.jetbrains.com/idea/download/?section=windows).
