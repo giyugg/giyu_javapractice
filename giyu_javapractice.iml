@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/1. Java Tutorial" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2. Java Variables" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/3. Java Data Types" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4. Java Type Casting" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
